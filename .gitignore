@@ -2,6 +2,8 @@
 a.out
 output*
 input*
+expected_output*
+run
 *.class
 
 ### C++
