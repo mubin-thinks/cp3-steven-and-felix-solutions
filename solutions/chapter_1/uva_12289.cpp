@@ -12,7 +12,7 @@ int main() {
         while (t--) {
                 char s[10]; scanf("%s", s);
                 if (strlen(s) == 5) printf("3\n");
-                else if (string_diff(s, "one") == 1) printf("1\n");
+                else if (string_diff(s, "one") <= 1) printf("1\n");
                 else printf("2\n");
         }
         return 0;
