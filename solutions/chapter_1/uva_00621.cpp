@@ -1,3 +1,6 @@
+// this solution is not verified by the UVA judge due to
+// issues in submitting the solution.
+
 #include <cstdio>
 #include <string>
 #include <iostream>
